@@ -30,6 +30,11 @@ yarn add all-icons
 <i class="all-icons icon-sad"></i>
 ```
 
+# Summery
+![Users](./icon-users.png)
+
+![Sad](./icon-sad.png)
+
 ## Show Demo
 [Show Demo](https://demo.gamenetworx.de/all-icons/index.html)
 
