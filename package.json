@@ -1,7 +1,7 @@
 {
   "name": "all-icons",
   "version": "1.0.0",
-  "description": "In this Package, is all Icons.",
+  "description": "The package includes the following icons: Ionic Icons, Box icons, Font Awesome Icons.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/EuroCent82/all-icons.git"
