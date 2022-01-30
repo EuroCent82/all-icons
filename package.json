@@ -9,7 +9,31 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "ionic",
+    "font-awesome",
+    "fontawesome",
+    "awesome",
+    "font",
+    "scss",
+    "less",
+    "css",
+    "icon",
+    "icons",
+    "boxicons",
+    "box",
+    "box-icons",
+    "boxicon",
+    "box-icon",
+    "font-icon",
+    "font-icons",
+    "fonticon",
+    "fonticons",
+    "ionic-icon",
+    "ionic-icons",
+    "font-awesome-icon",
+    "font-awesome-icons"
+  ],
   "author": "EuroCent <maik.schwieger@yahoo.com>",
   "engines": {
     "node": ">4.0"
